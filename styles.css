@@ -44,7 +44,7 @@ header {
   position: relative;
 }
 .first-part {
-  padding-left: 20px;
+  padding-left: 50px;
   font-size: 20px;
   line-height: 35px;
   margin-top: 50px;
@@ -86,7 +86,7 @@ blockquote::before {
   text-align: left;
 }
 .second-part {
-  padding-left: 20px;
+  padding-left: 50px;
   font-size: 20px;
   line-height: 35px;
   margin-top: 0px;
@@ -102,7 +102,7 @@ h3 {
   font-weight: bold;
 }
 .third-part {
-  padding-left: 20px;
+  padding-left: 50px;
   font-size: 20px;
   line-height: 35px;
   margin-top: 0px;
@@ -110,7 +110,7 @@ h3 {
   width: 50%;
 }
 .fourth-part {
-  padding-left: 20px;
+  padding-left: 50px;
   font-size: 20px;
   line-height: 35px;
   margin-top: 0px;
