@@ -1,13 +1,17 @@
 body {
   margin: 0px;
 }
-nav a {
+.navbar a {
   text-decoration: none;
   color: white;
   font-size: 30px;
   font-weight: bold;
-  padding: 30px;
+  padding: 60px; 
 }
+.navbar {
+  margin: auto;
+}
+
 nav {
   background: black;
   align-items: center;
